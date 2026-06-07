@@ -1,0 +1,5 @@
+Model,CV Mean RMSE,CV Std
+Linear Regression,-1.0,0.0
+Random Forest Regressor,-0.9997,0.0003
+XGBoost Regressor,-0.9969,0.0056
+Gradient Boosting Reg,-0.9998,0.0001
