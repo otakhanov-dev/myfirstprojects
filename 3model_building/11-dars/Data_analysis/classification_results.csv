@@ -1,0 +1,10 @@
+Model,Accuracy,Precision,Recall,F1_score
+Logistic Regression,1.0,1.0,1.0,1.0
+Decision Tree Classifier,1.0,1.0,1.0,1.0
+Random Forest Classifier,1.0,1.0,1.0,1.0
+SVC (RBF kernel),1.0,1.0,1.0,1.0
+Lasso (L1) Classifier,1.0,1.0,1.0,1.0
+Ridge (L2) Classifier,1.0,1.0,1.0,1.0
+Bagging Classifier,1.0,1.0,1.0,1.0
+Gradient Boosting Classifier,1.0,1.0,1.0,1.0
+XGBoost Classifier,1.0,1.0,1.0,1.0
